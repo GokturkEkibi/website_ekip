@@ -110,7 +110,7 @@ const TEAM_MEMBERS: TeamMember[] = [
   { name: "Ahmet Faruk", surname: "Işık", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#", photo: "/crew/ahmet-faruk-isik.jpg" },
   { name: "Ahmet Korkmaz", surname: "Peker", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ahmet-korkmaz-peker.jpg" },
   { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#", photo: "/crew/halil-kozoglu.jpg" },
-  { name: "İrem", surname: "Çakmak", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#" },
+  { name: "İrem", surname: "Çakmak", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#", photo: "crew/Gemini_Generated_Image_s584x3s584x3s584.jpg" },
   { name: "Taha", surname: "Çoban ", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#" },
   { name: "Raziye Nur", surname: "Toklu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#" },
   { name: "Arda Can", surname: "Ay ", role: "Ar-Ge Mühendisi", dept: " Mekanik Tasarım ", linkedin: "#" },
