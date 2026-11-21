@@ -115,7 +115,7 @@ const TEAM_MEMBERS: TeamMember[] = [
   { name: "Raziye Nur", surname: "Toklu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#" },
   { name: "Arda Can", surname: "Ay ", role: "Ar-Ge Mühendisi", dept: " Mekanik Tasarım ", linkedin: "#" },
   { name: "Kerem", surname: "Ercan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım ", linkedin: "#"},
-  { name: "Yusuf Arslan", surname: "Akkaş", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#" },
+  { name: "Yusuf Arslan", surname: "Akkaş", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#", photo: "crew/Yusuf-Arslan-Akkas.jpg" },
   { name: "Ayşe Suna", surname: "Şahin", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#" },
   { name: "Rümeysa", surname: "Alınak", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#"},
   { name: "Umut", surname: "Yılmaz", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#" },
