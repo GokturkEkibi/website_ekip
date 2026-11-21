@@ -96,10 +96,10 @@ interface Sponsor {
 // --- Data ---
 const TEAM_MEMBERS: TeamMember[] = [
   { name: "İsmail", surname: "Tanoğlu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ismail-tanoglu.jpg" },
-  { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "https://www.linkedin.com/in/halilkozoglu/", photo: "/crew/halil-kozoglu.jpg" },
-  { name: "Mustafa", surname: "Özcan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/mustafa-ozcan.jpg" },
-  { name: "Akif Kerem", surname: "Özkan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/akif-kerem-ozkan.jpg" },
-  { name: "Ahmet Korkmaz", surname: "Peker", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ahmet-korkmaz-peker.jpg" },
+  { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi, Mentor", dept: "Kurumsal İletişim ve Medya", linkedin: "https://www.linkedin.com/in/halilkozoglu/", photo: "/crew/halil-kozoglu.jpg" },
+  { name: "Mustafa", surname: "Özcan", role: "Ar-Ge Mühendisi, Mentor", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/mustafa-ozcan.jpg" },
+  { name: "Akif Kerem", surname: "Özkan", role: "Ar-Ge Mühendisi, Mentor", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/akif-kerem-ozkan.jpg" },
+  { name: "Ahmet Korkmaz", surname: "Peker", role: "Ar-Ge Mühendisi, Mentor", dept: "Aviyonik", linkedin: "#", photo: "/crew/ahmet-korkmaz-peker.jpg" },
   { name: "Hasan Bedirhan", surname: "Çolak", role: "Ar-Ge Mühendisi", dept: "Yazılım", photo:"crew/hasan-colak.jpg"  },
   { name: "Çetin Berat", surname: "Türkay", role: "Ar-Ge Mühendisi", dept: "Analiz", photo:"crew/cetin-turkay.jpg"  },
   { name: "Zehra", surname: "Boyraz", role: "Ar-Ge Mühendisi", dept: "Aviyonik", photo:"crew/zehra-boyraz.jpg" },
@@ -619,7 +619,7 @@ const App = () => {
                 { name: 'Mekanik', icon: <Wrench className="w-8 h-8"/>, desc: '3D Tasarım ve CAD.' },
                 { name: 'Yazılım', icon: <Code className="w-8 h-8"/>, desc: 'Otonom kontrol sistemleri.' },
                 { name: 'Aviyonik', icon: <CircuitBoard className="w-8 h-8"/>, desc: 'Elektronik ve PCB.' },
-                { name: 'Kompozit', icon: <Layers className="w-8 h-8"/>, desc: 'Üretim ve montaj.' }
+                { name: 'Kurumsal İletişim ve Medya', icon: <Layers className="w-8 h-8"/>, desc: 'Sponsorluk ve Medya.' }
               ].map((cap, i) => (
                 <div key={i} className="glass-panel p-6 rounded-2xl border border-blue-900/20 text-center group transition-all hover:bg-blue-900/10 hover:-translate-y-1">
                   <div className="text-blue-500 mb-6 group-hover:scale-110 transition-transform flex justify-center">{cap.icon}</div>
