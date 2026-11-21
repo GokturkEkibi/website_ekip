@@ -95,6 +95,11 @@ interface Sponsor {
 
 // --- Data ---
 const TEAM_MEMBERS: TeamMember[] = [
+  { name: "İsmail", surname: "Tanoğlu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ismail-tanoglu.jpg" },
+  { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#", photo: "/crew/halil-kozoglu.jpg" },
+  { name: "Mustafa", surname: "Özcan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/mustafa-ozcan.jpg" },
+  { name: "Akif Kerem", surname: "Özkan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/akif-kerem-ozkan.jpg" },
+  { name: "Ahmet Korkmaz", surname: "Peker", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ahmet-korkmaz-peker.jpg" },
   { name: "Hasan Bedirhan", surname: "Çolak", role: "Yazılım ve Kontrol", dept: "Yazılım", photo:"crew/hasan-colak.jpg"  },
   { name: "Çetin Berat", surname: "Türkay", role: "Analiz", dept: "Analiz", photo:"crew/cetin-turkay.jpg"  },
   { name: "Zehra", surname: "Boyraz", role: "Aviyonik", dept: "Aviyonik", photo:"crew/zehra-boyraz.jpg" },
@@ -103,13 +108,8 @@ const TEAM_MEMBERS: TeamMember[] = [
   { name: "Begüm", surname: "Aydoğan", role: "Yazılım Ve Kontrol", dept: "Yazılım", isSenior: true, linkedin: "#", photo: "/crew/begum-aydogan.jpg" },
   { name: "Rabia", surname: "Kıratlı", role: "Yazılım Lideri", dept: "Yazılım", isSenior: true, linkedin: "#", photo: "/crew/rabia-kiratli.jpg" },
   { name: "Mustafa", surname: "Ardıç", role: "Üretim Sorumlusu", dept: "Analiz ve Üretim", isSenior: true, linkedin: "#", photo: "/crew/mustafa-ardic.jpg" },
-  { name: "Mustafa", surname: "Özcan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/mustafa-ozcan.jpg" },
-  { name: "İsmail", surname: "Tanoğlu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ismail-tanoglu.jpg" },
-  { name: "Akif Kerem", surname: "Özkan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/akif-kerem-ozkan.jpg" },
   { name: "Mustafa", surname: "Albayrak", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#", photo: "/crew/mustafa-albayrak.jpg" },
   { name: "Ahmet Faruk", surname: "Işık", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#", photo: "/crew/ahmet-faruk-isik.jpg" },
-  { name: "Ahmet Korkmaz", surname: "Peker", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ahmet-korkmaz-peker.jpg" },
-  { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#", photo: "/crew/halil-kozoglu.jpg" },
   { name: "İrem", surname: "Çakmak", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#", photo: "crew/irem-cakmak.jpg" },
   { name: "Taha", surname: "Çoban ", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#", photo:"crew/taha-coban.jpg"  },
   { name: "Raziye Nur", surname: "Toklu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#",photo:"crew/raziye-nur-toklu.jpg" },
