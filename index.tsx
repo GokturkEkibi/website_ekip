@@ -97,7 +97,7 @@ interface Sponsor {
 const TEAM_MEMBERS: TeamMember[] = [
   { name: "Hasan Bedirhan", surname: "Çolak", role: "Yazılım ve Kontrol", dept: "Yazılım" },
   { name: "Çetin Berat", surname: "Türkay", role: "Analiz", dept: "Analiz" },
-  { name: "Zehra", surname: "Boyraz", role: "Aviyonik", dept: "Aviyonik" },
+  { name: "Zehra", surname: "Boyraz", role: "Aviyonik", dept: "Aviyonik",photo:"crew/zehra-boyraz.jpg" },
   { name: "Kürşat", surname: "Çiçin", role: "Ekip Kaptanı", dept: "Aviyonik Lideri", isSenior: true, linkedin: "#", photo: "/crew/kursat-cicin.jpg" },
   { name: "Kadir", surname: "Arslanpınar", role: "Baş Tasarımcı", dept: "Mekanik Tasarım", isSenior: true, linkedin: "#", photo: "/crew/kadir-arslanpinar.jpg" },
   { name: "Begüm", surname: "Aydoğan", role: "Yazılım Ve Kontrol", dept: "Yazılım", isSenior: true, linkedin: "#", photo: "/crew/begum-aydogan.jpg" },
@@ -112,7 +112,7 @@ const TEAM_MEMBERS: TeamMember[] = [
   { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#", photo: "/crew/halil-kozoglu.jpg" },
   { name: "İrem", surname: "Çakmak", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#", photo: "crew/irem-cakmak.jpg" },
   { name: "Taha", surname: "Çoban ", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#" },
-  { name: "Raziye Nur", surname: "Toklu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#" },
+  { name: "Raziye Nur", surname: "Toklu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#",photo:"crew/raziye-nur-toklu.jpg" },
   { name: "Arda Can", surname: "Ay ", role: "Ar-Ge Mühendisi", dept: " Mekanik Tasarım ", linkedin: "#" },
   { name: "Kerem", surname: "Ercan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım ", linkedin: "#"},
   { name: "Yusuf Arslan", surname: "Akkaş", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#", photo: "crew/Yusuf-Arslan-Akkas.jpg" },
