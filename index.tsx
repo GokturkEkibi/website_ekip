@@ -96,7 +96,7 @@ interface Sponsor {
 // --- Data ---
 const TEAM_MEMBERS: TeamMember[] = [
   { name: "İsmail", surname: "Tanoğlu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ismail-tanoglu.jpg" },
-  { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#", photo: "/crew/halil-kozoglu.jpg" },
+  { name: "Halil", surname: "Közoğlu", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "https://www.linkedin.com/in/halilkozoglu/", photo: "/crew/halil-kozoglu.jpg" },
   { name: "Mustafa", surname: "Özcan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/mustafa-ozcan.jpg" },
   { name: "Akif Kerem", surname: "Özkan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım", linkedin: "#", photo: "/crew/akif-kerem-ozkan.jpg" },
   { name: "Ahmet Korkmaz", surname: "Peker", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#", photo: "/crew/ahmet-korkmaz-peker.jpg" },
