@@ -114,11 +114,11 @@ const TEAM_MEMBERS: TeamMember[] = [
   { name: "Taha", surname: "Çoban ", role: "Ar-Ge Mühendisi", dept: "Yazılım", linkedin: "#", photo:"crew/taha-coban.jpg"  },
   { name: "Raziye Nur", surname: "Toklu", role: "Ar-Ge Mühendisi", dept: "Aviyonik", linkedin: "#",photo:"crew/raziye-nur-toklu.jpg" },
   { name: "Arda Can", surname: "Ay ", role: "Ar-Ge Mühendisi", dept: " Mekanik Tasarım ", linkedin: "#", photo:"crew/Arda-Can-Ay.jpg"  },
-  { name: "Kerem", surname: "Ercan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım ", linkedin: "#"},
+  { name: "Kerem", surname: "Ercan", role: "Ar-Ge Mühendisi", dept: "Mekanik Tasarım ", linkedin: "#", photo: "/crew/Kerem-Ercan.jpg" },
   { name: "Yusuf Arslan", surname: "Akkaş", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#", photo: "crew/Yusuf-Arslan-Akkas.jpg" },
   { name: "Ayşe Suna", surname: "Şahin", role: "Ar-Ge Mühendisi", dept: "Analiz", linkedin: "#", photo:"crew/Ayse-Suna-Sahin.jpg"   },
   { name: "Rümeysa", surname: "Alınak", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#", photo:"crew/Rumeysa-Alınak.jpg"  },
-  { name: "Umut", surname: "Yılmaz", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#" },
+  { name: "Umut", surname: "Yılmaz", role: "Ar-Ge Mühendisi", dept: "Kurumsal İletişim ve Medya", linkedin: "#", photo: "/crew/Umut-Yılmaz.jpg"  },
   
   ,
 ];
