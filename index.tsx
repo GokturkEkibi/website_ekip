@@ -1,3 +1,4 @@
+import { BACKGROUND_VIDEO_URL } from './src/media';
 import { LanguageProvider, useLanguage } from './src/i18n';
 import './src/sponsors.css';
 import './src/refinements.css';
@@ -589,7 +590,7 @@ const App = () => {
           <section id="hero" className="relative min-h-[85svh] pt-28 pb-16 flex items-center justify-center overflow-hidden">
             <div className="absolute inset-0 z-0 scanlines">
               <div className="absolute inset-0 bg-gradient-to-b from-[#020617]/40 via-[#020617]/70 to-[#020617] z-10"></div>
-              <video autoPlay loop muted playsInline className="w-full h-full object-cover opacity-60"><source src="/background-4.mp4" type="video/mp4" /></video>
+              <video autoPlay loop muted playsInline className="w-full h-full object-cover opacity-60"><source src={BACKGROUND_VIDEO_URL} type="video/mp4" /></video>
             </div>
             <div className="relative z-20 text-center px-6 mt-4 max-w-5xl mx-auto">
               <div className="inline-flex items-center gap-3 px-5 py-2 rounded-full border border-blue-500/30 bg-blue-500/10 backdrop-blur-md text-blue-400 text-[10px] md:text-[12px] mono uppercase tracking-[0.4em] mb-10 font-black">

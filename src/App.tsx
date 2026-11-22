@@ -1,3 +1,4 @@
+import { BACKGROUND_VIDEO_URL } from './media';
 import React, { useState, useEffect } from 'react';
 import { createRoot } from 'react-dom/client';
 import { 
@@ -289,7 +290,7 @@ const App = () => {
                 className="w-full h-full object-cover scale-105"
                 poster="/video-poster.jpg"
               >
-                <source src="/background-4.mp4" type="video/mp4" />
+                <source src={BACKGROUND_VIDEO_URL} type="video/mp4" />
                 <div className="w-full h-full bg-[#020617]"></div>
               </video>
             </div>
